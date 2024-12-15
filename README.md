@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AkshayKumar2510
-- 👀 I’m interested in AI/ML based projects
-- 🌱 I have prior knowledge in CORE JAVA and OOPs, Servlet and JSP, SQL, SpringBoot and currently sharpening my knowledge in Python+AI/ML related modules.
-- 💞️ I’m looking to collaborate on any software related technology specialized in JAVA
+Hi, I’m @AkshayKumar2510
+
+Backend developer with 3+ years of experience in Golang, Java, and AWS. Skilled in building scalable APIs, cloud solutions, and optimizing systems with AWS Lambda, EC2, DynamoDB,
+PostgresSQL, MySQL, and MongoDB. Passionate about product design, open-source contributions, and driving features from concept to completion in fast-paced environments.
 - 📫 Contact me @8800725142 or kumarakki19941025@gmail.com
 
 <!---
